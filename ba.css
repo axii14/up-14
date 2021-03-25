@@ -246,7 +246,7 @@ right: 0px;
 
 .herena {
   background-color: rgba(0, 0, 0, 0.7);
-  height: 40%;
+  height: 50%;
   left: 0;
   opacity: 0;
   pointer-events: none;
@@ -346,10 +346,8 @@ p{
   }
   
   .argazkixa2{
-    border: 2px solid white;
     border-radius: 5%;
     margin-bottom: 25px;
-    
     transition: transform .3s;
     height: 30%
   }
